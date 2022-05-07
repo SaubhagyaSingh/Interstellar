@@ -2,7 +2,7 @@ html {
     --scroll-behavior: smooth;
     scroll-behavior: smooth;
     background-color:black;
-    background-image:url('/images/interstellar1.jpg');
+    background-image:url('interstellar1.jpg');
     background-repeat:no-repeat;
   }
   body
